@@ -34,7 +34,7 @@
 
 ## 🛠️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,naive-ui,flutter,nodejs,nest,laravel,mongodb,mysql,sqlite,express,dart,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,next,nuxt,flutter,nodejs,nest,laravel,mongodb,mysql,sqlite,express,dart,cpp,java" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,webstorm,firebase,graphql,postman,idea" />
 </div>
@@ -44,7 +44,8 @@
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IdreesAbuEtewy&theme=algolia&show_icons=true&locale=en&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=IdreesAbuEtewy&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" height="170"/>
+    <image width=12>
+  <img src="https://github-readme-stats.vercel.app/api?username=IdreesAbuEtewy&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" alt="IdreesAbuEtewy" height="170"/>
 </p>
 
 ---
