@@ -34,7 +34,7 @@
 
 ## 🛠️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,reactnative,flutter,nodejs,nest,laravel,mongodb,mysql,sqlite,express,dart,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,naive-ui,flutter,nodejs,nest,laravel,mongodb,mysql,sqlite,express,dart,cpp,java" />
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,webstorm,firebase,graphql,postman,idea" />
 </div>
