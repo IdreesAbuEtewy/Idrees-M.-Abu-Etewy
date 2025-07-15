@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=idrees-abu-etewy" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IdreesAbuEtewy" />
 
 <h3 align="center">
   Hi, I'm Idrees Abu Etewy
@@ -43,23 +43,23 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=idrees-abu-etewy&theme=algolia&show_icons=true&locale=en&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=idrees-abu-etewy&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IdreesAbuEtewy&theme=algolia&show_icons=true&locale=en&layout=compact&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IdreesAbuEtewy&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" height="170"/>
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=idrees-abu-etewy&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IdreesAbuEtewy&theme=algolia&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20" />
 
 ---
 
 ## 💳 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idrees-abu-etewy&theme=algolia" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdreesAbuEtewy&theme=algolia" />
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=idrees-abu-etewy&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IdreesAbuEtewy&theme=onedark" />
 </p>
