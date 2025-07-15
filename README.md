@@ -18,13 +18,11 @@
 ### 🎓 Education
 - BSc in **Network and Mobile Programming** – Al-Aqsa University, Palestine  
 - MSc in **Cyber-Physical Systems** – Al-Aqsa University, Palestine  
--💼 Certified Full Stack Developer, proficient in both front-end and back-end development.
--📱 Two years of web devlopment experience crafting dynamic, responsive web applications.
--🌐 One year of Flutter experience crafting dynamic, responsive mobile applications.
 
 ### 💼 What I Do
 - Full-stack web development using:
-  - Frontend: **JavaScript**, **TypeScript**, **Vue 3**, **React**, **React Native**, **Flutter**
+  - Frontend: **JavaScript**, **TypeScript**, **Vue 3**, **React**
+  - Mobile Application:  **React Native**, **Flutter**
   - Backend: **Node.js**, **NestJS**, **Laravel**, **Express**
   - Databases: **MongoDB**, **MySQL**, **SQLite**
 
